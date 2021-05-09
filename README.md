@@ -1,2 +1,2 @@
-THIS PROJECT IS DEVELOPED AS AN ACADEMICS PROJECT WHICH AIMS TO AUTOMATE THE CLASS REPRESENTATIVE VOTING SYSTEM OF OUR COLLEGE FROM OUR TRADITIONAL(CHIT BASED) VOTING SYSTEM.
-THE PROJECT IS PURELY DEVELOPED IN C# USING MICROSOFT .NET FRAMEWORK AND DATABASE USED IS SQL SERVER.
+This project is developed as an academics project, which aims to automate the class representative voting system of our college from our traditional (chit based) voting system.
+The project is purely developed in C# using Microsoft .net framework and SQL server database.
